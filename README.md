@@ -1,2 +1,2 @@
 # Simple-CChess
-A simple terminal-based chess application, coded in C with as minimal libraries as mentally bearable.
+A simple terminal-based chess application, coded in C with as minimal library usage as mentally bearable.
