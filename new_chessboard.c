@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include "main.h"
 
 /**
  *new_chessboard - Initializes a new chessboard, in starting configuration.

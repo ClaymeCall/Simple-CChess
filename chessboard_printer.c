@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include "main.h"
 
 /**
  *chessboard_printer - Prints a chessboard in a certain configuration.
@@ -28,10 +27,4 @@ void chessboard_printer(char **curr_conf)
 	/* Printing column letter denomination under the chess board */
 	printf("   ---------------- \n");
 	printf("    a b c d e f g h \n\n");
-}
-
-int main (void)
-{
-	chessboard_printer(new_chessboard());
-	return (0);
 }
